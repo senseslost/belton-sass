@@ -1,7 +1,7 @@
 Belton Sass
 ===========
 
-You can now use your favorite [Molotow Belton](http://www.molotow.com/)Molotow Belton spray paint colors in Sass using variable names.
+You can now use your favorite [Molotow Belton](http://www.molotow.com/) spray paint colors in Sass using variable names.
 
 ![Belton Spray Paint Cans](https://raw.github.com/ryanburgess/belton-sass/master/screenshot.jpg)
 
